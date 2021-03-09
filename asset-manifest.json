@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/portfolio/static/js/main.31f672d6.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.31f672d6.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.37fe0395.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.37fe0395.js.map",
-    "static/js/2.192f0f19.chunk.js": "/portfolio/static/js/2.192f0f19.chunk.js",
-    "static/js/2.192f0f19.chunk.js.map": "/portfolio/static/js/2.192f0f19.chunk.js.map",
-    "static/js/3.1ac93c93.chunk.js": "/portfolio/static/js/3.1ac93c93.chunk.js",
-    "static/js/3.1ac93c93.chunk.js.map": "/portfolio/static/js/3.1ac93c93.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.f56bd698.chunk.css",
+    "main.js": "/portfolio/static/js/main.5bfe3ffb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5bfe3ffb.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
+    "static/js/2.6df6373a.chunk.js": "/portfolio/static/js/2.6df6373a.chunk.js",
+    "static/js/2.6df6373a.chunk.js.map": "/portfolio/static/js/2.6df6373a.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/portfolio/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.192f0f19.chunk.js.LICENSE.txt": "/portfolio/static/js/2.192f0f19.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg"
+    "static/css/main.f56bd698.chunk.css.map": "/portfolio/static/css/main.f56bd698.chunk.css.map",
+    "static/js/2.6df6373a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6df6373a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/HackerBg.15f1892a.jpg",
+    "static/media/color-switch.ec0700fb.jpg": "/portfolio/static/media/color-switch.ec0700fb.jpg",
+    "static/media/evildevil.eee0bbd1.png": "/portfolio/static/media/evildevil.eee0bbd1.png",
+    "static/media/me.42c593a8.jpg": "/portfolio/static/media/me.42c593a8.jpg",
+    "static/media/motions.07cf8611.png": "/portfolio/static/media/motions.07cf8611.png",
+    "static/media/rummy.193a40f8.png": "/portfolio/static/media/rummy.193a40f8.png",
+    "static/media/terminal.e6ce808c.jpg": "/portfolio/static/media/terminal.e6ce808c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.37fe0395.js",
-    "static/js/2.192f0f19.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.31f672d6.chunk.js"
+    "static/js/runtime-main.a9f76519.js",
+    "static/js/2.6df6373a.chunk.js",
+    "static/css/main.f56bd698.chunk.css",
+    "static/js/main.5bfe3ffb.chunk.js"
   ]
 }

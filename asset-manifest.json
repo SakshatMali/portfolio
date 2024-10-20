@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bc532569.chunk.css",
-    "main.js": "/portfolio/static/js/main.a3d9c921.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a3d9c921.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.e5815748.chunk.css",
+    "main.js": "/portfolio/static/js/main.be0e3e66.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.be0e3e66.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
-    "static/js/2.68c9d96a.chunk.js": "/portfolio/static/js/2.68c9d96a.chunk.js",
-    "static/js/2.68c9d96a.chunk.js.map": "/portfolio/static/js/2.68c9d96a.chunk.js.map",
+    "static/js/2.73a07d8f.chunk.js": "/portfolio/static/js/2.73a07d8f.chunk.js",
+    "static/js/2.73a07d8f.chunk.js.map": "/portfolio/static/js/2.73a07d8f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.bc532569.chunk.css.map": "/portfolio/static/css/main.bc532569.chunk.css.map",
-    "static/js/2.68c9d96a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.68c9d96a.chunk.js.LICENSE.txt",
+    "static/css/main.e5815748.chunk.css.map": "/portfolio/static/css/main.e5815748.chunk.css.map",
+    "static/js/2.73a07d8f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.73a07d8f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/HackerBg.15f1892a.jpg",
     "static/media/color-switch.ec0700fb.jpg": "/portfolio/static/media/color-switch.ec0700fb.jpg",
+    "static/media/deepfake.c8ca7565.jpg": "/portfolio/static/media/deepfake.c8ca7565.jpg",
     "static/media/electro.996d33bd.jpg": "/portfolio/static/media/electro.996d33bd.jpg",
     "static/media/evildevil.eee0bbd1.png": "/portfolio/static/media/evildevil.eee0bbd1.png",
     "static/media/me.42c593a8.jpg": "/portfolio/static/media/me.42c593a8.jpg",
     "static/media/motions.07cf8611.png": "/portfolio/static/media/motions.07cf8611.png",
     "static/media/movenlearn.edd08149.png": "/portfolio/static/media/movenlearn.edd08149.png",
+    "static/media/netflix_logo.c6cc58a5.png": "/portfolio/static/media/netflix_logo.c6cc58a5.png",
     "static/media/ourplanet.2d766c10.jpg": "/portfolio/static/media/ourplanet.2d766c10.jpg",
     "static/media/rummy.193a40f8.png": "/portfolio/static/media/rummy.193a40f8.png",
     "static/media/terminal.e6ce808c.jpg": "/portfolio/static/media/terminal.e6ce808c.jpg",
@@ -24,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a9f76519.js",
-    "static/js/2.68c9d96a.chunk.js",
-    "static/css/main.bc532569.chunk.css",
-    "static/js/main.a3d9c921.chunk.js"
+    "static/js/2.73a07d8f.chunk.js",
+    "static/css/main.e5815748.chunk.css",
+    "static/js/main.be0e3e66.chunk.js"
   ]
 }

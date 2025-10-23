@@ -1,33 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e5815748.chunk.css",
-    "main.js": "/portfolio/static/js/main.be0e3e66.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.be0e3e66.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
-    "static/js/2.73a07d8f.chunk.js": "/portfolio/static/js/2.73a07d8f.chunk.js",
-    "static/js/2.73a07d8f.chunk.js.map": "/portfolio/static/js/2.73a07d8f.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.e83719b3.css",
+    "main.js": "/portfolio/static/js/main.95313a28.js",
+    "static/media/movenlearn.png": "/portfolio/static/media/movenlearn.edd08149caff9c978578.png",
+    "static/media/me.jpg": "/portfolio/static/media/me.42c593a82bc14c504f48.jpg",
+    "static/media/rummy.png": "/portfolio/static/media/rummy.193a40f85153168d8ad1.png",
+    "static/media/evildevil.png": "/portfolio/static/media/evildevil.eee0bbd131ec05395c58.png",
+    "static/media/HackerBg.jpg": "/portfolio/static/media/HackerBg.15f1892aecf7ef8778e6.jpg",
+    "static/media/usedcar.jpg": "/portfolio/static/media/usedcar.d8333ce4e2784a94fc08.jpg",
+    "static/media/electro.jpg": "/portfolio/static/media/electro.996d33bdbfaf3849eb3b.jpg",
+    "static/media/motions.png": "/portfolio/static/media/motions.07cf8611e8fcb1b4795f.png",
+    "static/media/terminal.jpg": "/portfolio/static/media/terminal.e6ce808cec76b964717e.jpg",
+    "static/media/deepfake.jpg": "/portfolio/static/media/deepfake.c8ca7565eac994107623.jpg",
+    "static/media/color-switch.jpg": "/portfolio/static/media/color-switch.ec0700fb3037582ebae8.jpg",
+    "static/media/netflix_logo.png": "/portfolio/static/media/netflix_logo.c6cc58a595208b3bf0e1.png",
+    "static/media/ourplanet.jpg": "/portfolio/static/media/ourplanet.2d766c10d482fb90497d.jpg",
     "index.html": "/portfolio/index.html",
-    "static/css/main.e5815748.chunk.css.map": "/portfolio/static/css/main.e5815748.chunk.css.map",
-    "static/js/2.73a07d8f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.73a07d8f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/portfolio/static/media/HackerBg.15f1892a.jpg",
-    "static/media/color-switch.ec0700fb.jpg": "/portfolio/static/media/color-switch.ec0700fb.jpg",
-    "static/media/deepfake.c8ca7565.jpg": "/portfolio/static/media/deepfake.c8ca7565.jpg",
-    "static/media/electro.996d33bd.jpg": "/portfolio/static/media/electro.996d33bd.jpg",
-    "static/media/evildevil.eee0bbd1.png": "/portfolio/static/media/evildevil.eee0bbd1.png",
-    "static/media/me.42c593a8.jpg": "/portfolio/static/media/me.42c593a8.jpg",
-    "static/media/motions.07cf8611.png": "/portfolio/static/media/motions.07cf8611.png",
-    "static/media/movenlearn.edd08149.png": "/portfolio/static/media/movenlearn.edd08149.png",
-    "static/media/netflix_logo.c6cc58a5.png": "/portfolio/static/media/netflix_logo.c6cc58a5.png",
-    "static/media/ourplanet.2d766c10.jpg": "/portfolio/static/media/ourplanet.2d766c10.jpg",
-    "static/media/rummy.193a40f8.png": "/portfolio/static/media/rummy.193a40f8.png",
-    "static/media/terminal.e6ce808c.jpg": "/portfolio/static/media/terminal.e6ce808c.jpg",
-    "static/media/usedcar.d8333ce4.jpg": "/portfolio/static/media/usedcar.d8333ce4.jpg"
+    "main.e83719b3.css.map": "/portfolio/static/css/main.e83719b3.css.map",
+    "main.95313a28.js.map": "/portfolio/static/js/main.95313a28.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9f76519.js",
-    "static/js/2.73a07d8f.chunk.js",
-    "static/css/main.e5815748.chunk.css",
-    "static/js/main.be0e3e66.chunk.js"
+    "static/css/main.e83719b3.css",
+    "static/js/main.95313a28.js"
   ]
 }
